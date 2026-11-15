@@ -17,7 +17,10 @@ Using C language for data structures.
 
 ---
 
-👨‍🏫 **Course Coordinator:** Dr Syed Mujtaba Hussain
+👨‍🏫 **Course Coordinator:** 
+
+**Dr Syed Mujtaba Hussain**
+
 
 ---
 
